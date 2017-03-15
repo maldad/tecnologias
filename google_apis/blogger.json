@@ -1,0 +1,23 @@
+{
+ "kind": "blogger#blog",
+ "id": "2399953",
+ "name": "Official Blogger Blog",
+ "description": "The latest tips and news from the Blogger team",
+ "published": "2007-04-23T15:17:29-07:00",
+ "updated": "2017-03-13T09:18:25-07:00",
+ "url": "http://blogger.googleblog.com/",
+ "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2399953",
+ "posts": {
+  "totalItems": 537,
+  "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2399953/posts"
+ },
+ "pages": {
+  "totalItems": 2,
+  "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2399953/pages"
+ },
+ "locale": {
+  "language": "en",
+  "country": "",
+  "variant": ""
+ }
+}
