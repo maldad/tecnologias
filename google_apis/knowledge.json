@@ -12,25 +12,26 @@
     {
       "@type": "EntitySearchResult",
       "result": {
-        "@id": "kg:/m/05f7g9d",
-        "name": "Isaiah Thomas",
+        "@id": "kg:/m/0128442n",
+        "name": "Overwatch",
         "@type": [
-          "Person",
+          "VideoGame",
           "Thing"
         ],
-        "description": "Basketball player",
+        "description": "Video game",
         "image": {
-          "contentUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcTgWV6EqP6wB8CJxiQCOMIFOWrnX7rVN8f3cLgv5fC0ARfOSFcx",
-          "url": "https://commons.wikimedia.org/wiki/File:Isaiah_Thomas_Dec_2013.jpg",
-          "license": "http://creativecommons.org/licenses/by-sa/2.0"
+          "contentUrl": "http://t0.gstatic.com/images?q=tbn:ANd9GcTJ3IysfTkd6ry3kDpsv7xTgFoTlrHIK-WzvyzRBFZAtFs1R5P6",
+          "url": "https://en.wikipedia.org/wiki/Overwatch_(video_game)",
+          "license": "http://creativecommons.org/licenses/by/2.0"
         },
         "detailedDescription": {
-          "articleBody": "Isaiah Jamar Thomas is an American professional basketball player for the Boston Celtics of the National Basketball Association. ",
-          "url": "https://en.wikipedia.org/wiki/Isaiah_Thomas_(basketball)",
+          "articleBody": "Overwatch is a team-based multiplayer first-person shooter video game developed and published by Blizzard Entertainment. It was released in May 2016 for Microsoft Windows, PlayStation 4, and Xbox One.\n",
+          "url": "https://en.wikipedia.org/wiki/Overwatch_(video_game)",
           "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
-        }
+        },
+        "url": "https://playoverwatch.com/en-us/"
       },
-      "resultScore": 586.435181
+      "resultScore": 64.179413
     }
   ]
 }
