@@ -1,5 +1,4 @@
 var Procesar =(function (){
-  // var get = XHR.get("https://kgsearch.googleapis.com/v1/entities:search?query=megadeth&key=AIzaSyC-IDgTVba5ssFlzRKbPYPL9D8Z_ZPOg_o&limit=1&indent=True");
   // XHR.get("../knowledge.json");
   // XHR.get("../blogger.json");
   // debe haber un procesar para cada tipo de JSON a formatear
