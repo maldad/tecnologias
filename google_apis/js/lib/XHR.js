@@ -5,7 +5,7 @@ var XHR = (function (){
       if(xhr.readyState === 4 && xhr.status === 200){
         var myjson = JSON.parse(xhr.responseText);
         Procesar.procesar(myjson);
-        // console.log(xhr.responseText);
+        console.log(xhr.responseText);
       }
     };
     xhr.open('GET', url);
